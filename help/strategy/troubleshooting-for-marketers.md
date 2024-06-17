@@ -9,11 +9,11 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-exl-id: 040e2e14-1e97-4deb-991c-978e89cc6bf7
-source-git-commit: ed524113f3c17ccf013438a0faef4f940dc08bfe
+exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
+source-git-commit: cfa097e1ea0d5ca8c97c1062ea8717c37a51530d
 workflow-type: tm+mt
-source-wordcount: '724'
-ht-degree: 2%
+source-wordcount: '715'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ Por: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank
 Como ingeniero sénior y experto en productos de Adobe Experience Cloud durante los últimos cinco años, habilito a los usuarios empresariales en [Meijer](https://www.meijer.com/){target="_blank"}, una cadena de supercentros estadounidense fundada en 1934, para llevar a cabo complejas campañas transaccionales y de marketing con ACS. Algunos proyectos en los que he trabajado incluyen campañas personalizadas para almacenar ofertas y detalles de pedidos para personalización, integradas con Adobe Audience Manager, y conocimiento del cliente para ingesta de segmentos.
 
 
-En mi tiempo usando ACS, me he encontrado con errores que pueden consumir tiempo y ser frustrantes de resolver. Conocer los errores más comunes puede ayudar a resolver problemas más rápido y aumentar su productividad. A continuación se muestran mis sugerencias de solución de problemas para ayudarle a resolver de forma eficaz errores similares a medida que se producen.
+En mi tiempo usando ACS, me he encontrado con errores, que pueden consumir tiempo y ser frustrantes de resolver. Conocer los errores más comunes puede ayudar a resolver problemas más rápido y aumentar su productividad. A continuación se muestran mis sugerencias de solución de problemas para ayudarle a resolver de forma eficaz errores similares a medida que se producen.
 
 ## Error de tipo de datos no coincidente
 
@@ -32,7 +32,7 @@ En mi tiempo usando ACS, me he encontrado con errores que pueden consumir tiempo
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **Causa:**
-Estos tipos de errores aparecen en un flujo de trabajo cuando se intenta conciliar mediante campos de diferentes tipos de datos. Por ejemplo, cuando se carga un archivo mediante un archivo de carga que tiene un campo de cadena e intenta reconciliar el campo de cadena con un campo de perfil que tiene un tipo de datos de int.
+Estos tipos de errores aparecen en un flujo de trabajo cuando se intenta conciliar mediante campos de diferentes tipos de datos. Por ejemplo, cuando se carga un archivo mediante cargar archivo, que tiene un campo de cadena, y se intenta reconciliar el campo de cadena con un campo de perfil que tiene un tipo de datos int.
 
 ![data-type-mismatch-error](/help/assets/kt-13256/data-type-mismatch.png)
 
@@ -53,13 +53,13 @@ Este error aparece cuando se envía un correo electrónico a una dirección, per
 ![flujo de trabajo con actividad de reconciliación](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Solución:**
-Debe existir un ID común del archivo cargado con la tabla de destinatarios. Esta clave común une el archivo de carga a la tabla de destinatarios dentro de la actividad de reconciliación. Es posible que no se envíen correos electrónicos a registros que no existen en la tabla de destinatarios que requiere este paso de reconciliación dentro del flujo de trabajo. Al hacerlo, reconciliaría la actividad del archivo de carga entrante con un identificador como el ID de correo electrónico del perfil. El `nms:recipient` schema hace referencia a la tabla de perfil y la reconciliación de los registros entrantes con el perfil hace que esté disponible durante la preparación del correo electrónico.
+Debe existir un ID común del archivo cargado con la tabla de destinatarios. Esta clave común une el archivo de carga a la tabla de destinatarios dentro de la actividad de reconciliación. Es posible que no se envíen correos electrónicos a registros que no existen en la tabla de destinatarios, lo que requiere este paso de reconciliación dentro del flujo de trabajo. Al hacerlo, reconciliaría la actividad del archivo de carga entrante con un identificador como el ID de correo electrónico del perfil. El `nms:recipient` schema hace referencia a la tabla de perfil y la reconciliación de los registros entrantes con el perfil hace que esté disponible durante la preparación del correo electrónico.
 
 Consulte la captura de pantalla de la actividad de reconciliación como se muestra a continuación.
 
 ![flujo de trabajo con detalles de reconciliación](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-Más información sobre [reconciliación](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
+Más información sobre [reconciliación](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Error de conjunto de datos de campo común
 
