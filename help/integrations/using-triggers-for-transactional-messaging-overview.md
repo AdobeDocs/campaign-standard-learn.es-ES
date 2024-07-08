@@ -1,5 +1,5 @@
 ---
-title: 'Uso de triggers para la mensajería transaccional: información general'
+title: 'Uso de activadores para la mensajería transaccional: información general'
 description: Aprenda a configurar y utilizar activadores para la mensajería transaccional.
 feature: Triggers
 topic: Integrations
@@ -11,15 +11,15 @@ team: TM
 hidefromtoc: false
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 source-git-commit: cfa097e1ea0d5ca8c97c1062ea8717c37a51530d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 
 ---
 
-# Uso de triggers para la mensajería transaccional: información general
+# Uso de activadores para la mensajería transaccional: información general
 
-En los siguientes tutoriales, aprenderá a configurar y utilizar triggers para la mensajería transaccional.
+En los siguientes tutoriales, aprenderá a configurar y utilizar activadores para la mensajería transaccional.
 
 Para poder utilizar un activador en un mensaje transaccional, debe hacer lo siguiente:
 
