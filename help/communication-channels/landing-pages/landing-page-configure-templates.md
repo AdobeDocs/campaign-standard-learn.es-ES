@@ -14,11 +14,11 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '24'
-ht-degree: 20%
+ht-degree: 29%
 
 ---
 
-# Configurar un [!UICONTROL landing page template]
+# Configurar un(a) [!UICONTROL landing page template]
 
 En este vídeo se explica cómo configurar [!UICONTROL landing page] plantillas.
 

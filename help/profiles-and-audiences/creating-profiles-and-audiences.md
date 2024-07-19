@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 36%
+ht-degree: 39%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign tiene dos tipos de perfiles:
 * Perfiles identificados
 * Perfiles de prueba
 
-Se denominan perfiles agrupados según uno o varios criterios comunes **audiencias**.
+Los perfiles agrupados según uno o varios criterios comunes se denominan **audiencias**.
 
 En este vídeo se explica cómo navegar a perfiles existentes, y cómo crear perfiles y audiencias en Adobe Campaign Standard.
 

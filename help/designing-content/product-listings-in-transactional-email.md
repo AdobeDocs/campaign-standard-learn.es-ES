@@ -12,8 +12,8 @@ role: User, Developer
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 4%
+source-wordcount: '139'
+ht-degree: 8%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 4%
 
 Puede configurar un correo electrónico de resegmentación que tenga una lista de productos desconocidos al diseñar el correo electrónico. Estos productos se pueden añadir desde la carga útil en tiempo de ejecución. Por ejemplo, puede enviar automáticamente un correo electrónico de abandono de carro de compras que enumere todos los productos que había en el carro de compras del usuario antes de abandonarlo, e incluya una imagen, un precio y un vínculo a cada producto.
 
-En los siguientes vídeos se explican los pasos necesarios para configurar [!UICONTROL product listings] in [!UICONTROL transactional emails].
+En los siguientes vídeos se explican los pasos necesarios para configurar [!UICONTROL product listings] en [!UICONTROL transactional emails].
 
 >[!NOTE]
 >

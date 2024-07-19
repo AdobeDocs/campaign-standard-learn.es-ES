@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 15%
+ht-degree: 20%
 
 ---
 
-# Usuarios de destino según su [!DNL Campaign] perfil
+# Usuarios de destino según su perfil [!DNL Campaign]
 
 Obtenga información sobre cómo dirigirse a usuarios de aplicaciones móviles conocidos con mensajes personalizados con atributos de perfil CRM.
 

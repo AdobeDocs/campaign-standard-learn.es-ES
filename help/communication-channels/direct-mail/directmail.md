@@ -12,22 +12,22 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
-# Crear un [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# Crear un(a) [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-El [!UICONTROL Direct Mail] Este canal permite extraer una lista segmentada de destinatarios para enviarlos a una agencia o cargarlos en un servidor SFTP.
+El canal [!UICONTROL Direct Mail] le permite extraer una lista segmentada de destinatarios para enviarlos a una agencia o cargarlos en un servidor SFTP.
 
-En este vídeo se explica cómo configurar una [!UICONTROL Direct Mail] envío y qué configuración se requieren para poder agregar un perfil a una [!UICONTROL Direct Mail] envío.
+En este vídeo se explica cómo configurar un envío de [!UICONTROL Direct Mail] y qué configuración es necesaria para poder agregar un perfil a un envío de [!UICONTROL Direct Mail].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
 
 ## Crear un [!UICONTROL Direct Mail] dentro de un flujo de trabajo
 
-El canal está disponible en la página de inicio y en la vista de flujo de trabajo para definir estrategias de marketing coherentes y multicanal. El siguiente flujo de trabajo de ejemplo incluye la [!UICONTROL Direct Mail activity].
+El canal está disponible en la página de inicio y en la vista de flujo de trabajo para definir estrategias de marketing coherentes y multicanal. El siguiente flujo de trabajo de ejemplo incluye [!UICONTROL Direct Mail activity].
 
 ![Imagen de flujo de trabajo](/help/assets/direct_mail_examplewf.png)
 

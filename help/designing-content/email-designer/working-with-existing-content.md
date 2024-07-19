@@ -1,6 +1,6 @@
 ---
 title: Uso de contenido existente
-description: Obtenga información sobre cómo recuperar el contenido creativo de un sitio web y cargarlo en el Diseñador de correo electrónico.
+description: Obtenga información sobre cómo recuperar el contenido creativo de un sitio web y cargarlo en el Designer de correo electrónico.
 feature: Email Design
 jira: KT-6295
 thumbnail: 25926.jpg
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 7%
 
 ## Importación de contenido desde una dirección URL
 
-Obtenga información sobre cómo recuperar el contenido creativo de un sitio web y cargarlo en el Diseñador de correo electrónico.
+Obtenga información sobre cómo recuperar el contenido creativo de un sitio web y cargarlo en el Designer de correo electrónico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
 
 ## Compatibilidad del contenido existente del HTML {#making-existing-html-content-compatible}
 
-El Diseñador de correo electrónico requiere un etiquetado específico, que debe aplicarse para que el contenido estándar del HTML cargado en Adobe Campaign sea totalmente compatible y editable.
+El Designer de correo electrónico requiere un etiquetado específico, que debe aplicarse para que el contenido estándar del HTML cargado en Adobe Campaign sea totalmente compatible y editable.
 
 Puede encontrar la documentación detallada en el siguiente vínculo:
 
-[Conversión del contenido del HTML en una plantilla del Diseñador de correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Convirtiendo contenido de HTML en una plantilla de Designer de correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)

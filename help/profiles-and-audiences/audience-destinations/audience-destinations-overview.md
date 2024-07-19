@@ -14,12 +14,12 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '117'
 ht-degree: 6%
 
 ---
 
-# [!UICONTROL Audience Destinations] (BETA): Información general
+# [!UICONTROL Audience Destinations] (BETA): información general
 
 ## Uso de audiencias de Adobe Experience Platform en Adobe Campaign Standard
 
@@ -30,7 +30,7 @@ ht-degree: 6%
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 >
 
-El módulo Audiencias de Adobe Campaign Standard le permite crear segmentos utilizando datos de la versión de Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+El módulo Audiencias de Adobe Campaign Standard le permite crear segmentos con datos de [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) de Adobe Experience Platform.
 
 Los siguientes tutoriales en vídeo le guiarán por los diferentes pasos:
 

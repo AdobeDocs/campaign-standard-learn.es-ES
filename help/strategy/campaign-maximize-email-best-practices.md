@@ -1,6 +1,6 @@
 ---
-title: Maximice el ROI del correo electrónico y aprenda las prácticas recomendadas para la renovación de la participación de los suscriptores
-description: Obtenga información sobre cómo maximizar el ROI del correo electrónico y conozca las prácticas recomendadas para la renovación de la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico.
+title: Maximice el ROI del correo electrónico y aprenda las prácticas recomendadas para renovar la participación de los suscriptores
+description: Obtenga información sobre cómo maximizar el ROI del correo electrónico y conozca las prácticas recomendadas para renovar la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico.
 solution: Campaign
 role: User
 level: Beginner
@@ -8,8 +8,8 @@ feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
 source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
 workflow-type: tm+mt
-source-wordcount: '1471'
-ht-degree: 3%
+source-wordcount: '1475'
+ht-degree: 0%
 
 ---
 
@@ -118,26 +118,26 @@ Para los usuarios que han caducado o están inactivos, considere la posibilidad 
 
 Desglose este proceso en dos áreas de enfoque: a) patrones de envío de correo electrónico y b) el contenido creativo de los propios correos electrónicos. A continuación se muestra una descripción más detallada de cada una de estas áreas:
 
-**Actualizar los patrones y programaciones de envío**
+**Actualice sus patrones y programaciones de envío**
 
-* **Iniciar lentamente** - Es una maratón, no un sprint. No es una solución que se pueda implementar en un día. Considere la posibilidad de empezar con un pequeño porcentaje de la audiencia, entre el 4 % y el 5 %, y de monitorizar cuidadosamente el rendimiento.
+* **Empieza despacio** - Es una maratón, no un sprint. No es una solución que se pueda implementar en un día. Considere la posibilidad de empezar con un pequeño porcentaje de la audiencia, entre el 4 % y el 5 %, y de monitorizar cuidadosamente el rendimiento.
 
-* **Considerar la reputación de marca** : Asegúrese de que el tráfico de correo electrónico a segmentos inactivos no esté causando ningún problema de reputación.
+* **Considera la reputación de la marca** - Asegúrate de que el tráfico de correo electrónico a los segmentos inactivos no esté causando ningún problema de reputación.
 
-* **Automatizar flujos de trabajo** - Mantenga sus listas limpias y ordenadas.
+* **Automatizar flujos de trabajo**: mantenga sus listas limpias y ordenadas.
 
-* **Reglas de presión** - Excluir a los suscriptores del programa de renovación de la participación de la recepción de cualquier otro correo electrónico.
+* **Reglas de presión**: excluye a los suscriptores del programa de renovación de participación de recibir cualquier otro correo electrónico.
 
 **Creativo y contenido**
 
-* **Ofrecer una clara inclusión/exclusión** - Facilitar a los usuarios decidir rápidamente si desean saber de usted. Es posible que se le recompense con una opción de inclusión por atender primero a sus necesidades, en lugar de centrarse en las necesidades comerciales de participación.
+* **Ofrecer una adhesión/exclusión clara**: facilite a los usuarios la decisión rápida de si desean saber de usted. Es posible que se le recompense con una opción de inclusión por atender primero a sus necesidades, en lugar de centrarse en las necesidades comerciales de participación.
 
-* **Crear un centro de preferencias** : Esta es una oportunidad para dar control adicional a sus suscriptores, lo que les permite seleccionar entre diferentes contenidos de correo electrónico, como boletines informativos, ofertas promocionales, eventos, etc., así como una regularidad diferente. Recuerde, si decide ofrecer esto, asegúrese de seguir y segmentar correctamente a su audiencia para cumplir con esas preferencias.
+* **Crear un centro de preferencias**: esta es una oportunidad para dar control adicional a los suscriptores, permitiéndoles seleccionar entre diferentes contenidos de correo electrónico, como boletines informativos, ofertas promocionales, eventos, etc., así como con distinta regularidad. Recuerde, si decide ofrecer esto, asegúrese de seguir y segmentar correctamente a su audiencia para cumplir con esas preferencias.
 
-* **Líneas de asunto sólidas** - Asegúrese de que se destaquen del contenido de otras marcas
+* **Líneas de asunto sólidas**: asegúrese de que destaquen del contenido de otras marcas
 
-* **Prueba y aprendizaje** - un buen plan de pruebas es importante para asegurarse de que sus esfuerzos están teniendo el efecto deseado. Aprenda qué funciona y qué no e itere en consecuencia.
+* **Prueba y aprende**: un buen plan de pruebas es importante para asegurarte de que tus esfuerzos tengan el efecto deseado. Aprenda qué funciona y qué no e itere en consecuencia.
 
-Para ver un resumen de este artículo y una demostración en directo de la implementación de estrategias de renovación de la participación, consulte nuestra [seminario web](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+Para ver un resumen de este artículo y una demostración en directo de la implementación de estrategias de renovación de la participación, vea nuestro [seminario web](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Obtenga más información sobre estrategia y liderazgo mental en [Éxito del cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Obtenga más información sobre estrategia y liderazgo mental en el centro de [Éxito del cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).

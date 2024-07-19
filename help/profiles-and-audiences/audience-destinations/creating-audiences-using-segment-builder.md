@@ -14,8 +14,8 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 9%
+source-wordcount: '162'
+ht-degree: 11%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 9%
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
-Adobe Campaign Standard le permite crear audiencias utilizando datos de Adobe Experience Cloud [Perfil del cliente en tiempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) mediante Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Adobe Campaign Standard permite crear audiencias a partir de los datos del [perfil del cliente en tiempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) de Adobe Experience Cloud mediante Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-Puede acceder a las [!UICONTROL Unified Segment Builder] directamente en Adobe Campaign Standard a través de [!UICONTROL Audiences] módulo. Permite administrar estas audiencias directamente en el [!UICONTROL Audiences] vista de lista, donde puede editar o crear una audiencia de Adobe Experience Platform directamente desde la interfaz de Adobe Campaign
+Puede acceder a [!UICONTROL Unified Segment Builder] directamente desde Adobe Campaign Standard a través del módulo [!UICONTROL Audiences]. Le permite administrar estas audiencias directamente en la vista de lista [!UICONTROL Audiences], donde puede editar o crear una audiencia de Adobe Experience Platform directamente desde la interfaz de Adobe Campaign
 
 El siguiente vídeo explica cómo se crea una nueva audiencia con [!UICONTROL Unified Segment Builder] en Adobe Campaign Standard.
 

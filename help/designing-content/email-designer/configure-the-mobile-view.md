@@ -1,5 +1,5 @@
 ---
-title: Configuración de la vista móvil en el Diseñador de correo electrónico
+title: Configuración de la vista móvil en la Designer de correo electrónico
 description: '"Aprenda a ajustar el diseño interactivo de un correo electrónico editando por separado todas las opciones de estilo de la pantalla móvil".'
 feature: Email Design
 jira: KT-2423
@@ -13,11 +13,11 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Configure la vista móvil en la [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# Configurar la vista móvil en [!UICONTROL Email Designer] {#configure-the-mobile-view}
 
 En este vídeo se explica cómo ajustar el diseño interactivo de un correo electrónico mediante la edición por separado de todas las opciones de estilo de la pantalla móvil.
 

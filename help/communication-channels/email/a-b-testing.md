@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 37%
+source-wordcount: '114'
+ht-degree: 30%
 
 ---
 
 # Prueba A/B
 
-El [!UICONTROL A/B Test] La funcionalidad en Adobe Campaign permite definir de dos a tres variantes de correo electrónico. Cada variante se envía a las muestras de población para determinar cuál tiene el mejor resultado. Una vez determinada, la variante ganadora se envía a la población restante. Puede elegir entre variar el contenido, el asunto o el remitente del correo electrónico.
+La funcionalidad [!UICONTROL A/B Test] en Adobe Campaign le permite definir entre dos y tres variantes de correo electrónico. Cada variante se envía a las muestras de población para determinar cuál tiene el mejor resultado. Una vez determinada, la variante ganadora se envía a la población restante. Puede elegir entre variar el contenido, el asunto o el remitente del correo electrónico.
 
 Obtenga información sobre cómo configurar y enviar una prueba A/B para probar la línea de asunto de un correo electrónico.
 

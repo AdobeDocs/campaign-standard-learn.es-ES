@@ -15,11 +15,11 @@ hidefromtoc: true
 source-git-commit: 563f4440b1d9454a1976b4ba7594d8a550814de1
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 8%
+ht-degree: 6%
 
 ---
 
-# Cambio de la dimensión de segmentación [!UICONTROL Platform Audience]
+# Cambiar la dimensión de segmentación [!UICONTROL Platform Audience]
 
 >[!NOTE]
 >
@@ -27,6 +27,6 @@ ht-degree: 8%
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
-En este vídeo se explica cómo cambiar la dimensión de segmentación de una entrega para una [!UICONTROL Platform Audience] fuera de la tabla de perfil principal en Adobe Campaign Standard.
+En este vídeo se explica cómo cambiar la dimensión de segmentación de una entrega para un(a) [!UICONTROL Platform Audience] fuera de la tabla de perfil principal en Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}

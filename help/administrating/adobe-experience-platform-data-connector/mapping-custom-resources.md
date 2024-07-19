@@ -12,8 +12,8 @@ team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 4%
+source-wordcount: '76'
+ht-degree: 6%
 
 ---
 
@@ -29,4 +29,4 @@ Obtenga información sobre cómo asignar diferentes tipos de datos entre Adobe C
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
 
-Consulte la documentación del producto para obtener más información sobre la [Definición de asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+Consulte la documentación del producto para obtener más información sobre la [definición de asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)

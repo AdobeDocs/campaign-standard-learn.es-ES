@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 11%
+ht-degree: 15%
 
 ---
 
-# Crear un [!UICONTROL In-App] envío dentro de un flujo de trabajo
+# Crear un envío [!UICONTROL In-App] dentro de un flujo de trabajo
 
 Aprenda a utilizar la actividad Entrega en la aplicación para automatizar el envío de un mensaje en la aplicación a una audiencia de destinatario calculada en un flujo de trabajo.
 
