@@ -23,4 +23,4 @@ Adobe Campaign permite simplificar las complejidades operativas del envío de ca
 
 En este vídeo se explica cómo crear un envío multilingüe basado en una plantilla en el ejemplo de una newsletter por correo electrónico. El método mostrado en los vídeos se aplica tanto a los envíos de correo electrónico como de SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37535?learn=on&captions=spa){transcript=true}

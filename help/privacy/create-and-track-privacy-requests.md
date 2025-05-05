@@ -23,6 +23,6 @@ Adobe Campaign le permite crear solicitudes de eliminación y de acceso a datos 
 
 Aprenda a crear manualmente solicitudes de privacidad y realizar un seguimiento de su evolución en la interfaz de usuario de Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340817?learn=on&captions=spa){transcript=true}
 
 Consulte la documentación del producto para obtener más información sobre las [Directrices generales de privacidad para Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=es).

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 En este vídeo se explica cómo puede cambiar las columnas mostradas, el orden y la selección del orden de la vista de una lista en Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/25288/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328384/?learn=on&captions=spa){transcript=true}

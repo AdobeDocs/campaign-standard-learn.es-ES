@@ -23,4 +23,4 @@ Adobe Campaign Standard ofrece 18 plantillas de correo electrónico adaptables t
 
 Este vídeo presenta las plantillas y explica cómo crear las suyas propias.
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37539?learn=on&captions=spa){transcript=true}

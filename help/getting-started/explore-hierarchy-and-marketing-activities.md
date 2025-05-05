@@ -21,5 +21,5 @@ ht-degree: 100%
 
 En este vídeo se explica la jerarquía de programas y campañas, cómo crear un programa de marketing y cómo crear una campaña de marketing dentro de un programa.
 
->[!VIDEO](https://video.tv.adobe.com/v/18465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38384?learn=on&captions=spa){transcript=true}
 

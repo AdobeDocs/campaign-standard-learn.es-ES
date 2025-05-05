@@ -23,4 +23,4 @@ Puede recopilar datos de un archivo para procesarlos o importarlos a la base de 
 
 En este vídeo se explica cómo utilizar las actividades [!UICONTROL Data Management] en un flujo de trabajo para importar datos de perfil.
 
->[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328386?learn=on&captions=spa){transcript=true}

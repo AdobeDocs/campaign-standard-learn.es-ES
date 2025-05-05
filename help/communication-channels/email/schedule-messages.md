@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo programar un envío de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415919/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420637/?learn=on&captions=spa){transcript=true}

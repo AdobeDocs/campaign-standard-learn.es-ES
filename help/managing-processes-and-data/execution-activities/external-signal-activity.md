@@ -24,4 +24,4 @@ ht-degree: 1%
 
 Obtenga información sobre cómo configurar [!UICONTROL External Signal activity] para recibir parámetros** de un sistema externo, personalizar un flujo de trabajo con parámetros externos y configurar una actividad final para llamar a un flujo de trabajo con los parámetros externos
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34377/?learn=on&captions=spa){transcript=true}

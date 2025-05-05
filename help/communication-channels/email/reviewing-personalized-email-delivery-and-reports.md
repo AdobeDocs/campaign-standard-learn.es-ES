@@ -21,4 +21,4 @@ ht-degree: 25%
 
 En este vídeo se explica cómo revisar un envío de correo electrónico personalizado y se exploran los distintos informes disponibles en Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/21389?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38359?learn=on&captions=spa){transcript=true}

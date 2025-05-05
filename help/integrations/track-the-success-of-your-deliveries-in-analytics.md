@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo configurar la integración de Campaign Standard y Analytics. Obtenga información sobre cómo crear un informe en Analytics con los datos recibidos de Campaign Standard y los KPI disponibles.
 
->[!VIDEO](https://video.tv.adobe.com/v/332576/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449043/?learn=on&captions=spa){transcript=true}
 
 Consulte la guía del producto de Adobe Analytics para obtener más información sobre la [Explicación y creación de grupos de informes](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=es#intro-to-analytics).

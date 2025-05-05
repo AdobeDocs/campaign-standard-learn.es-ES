@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo probar un mensaje de correo electrónico antes de enviarlo a los destinatarios finales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416038/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446218/?learn=on&captions=spa){transcript=true}

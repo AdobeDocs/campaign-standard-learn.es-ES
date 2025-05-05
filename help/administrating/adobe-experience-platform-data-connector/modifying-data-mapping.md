@@ -27,7 +27,7 @@ ht-degree: 12%
 
 Obtenga información sobre cómo comprobar el estado y modificar la asignación de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/27266?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38493?learn=on&captions=spa){transcript=true}
 
 ## Recursos adicionales
 

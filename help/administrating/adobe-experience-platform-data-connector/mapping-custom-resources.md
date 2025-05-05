@@ -27,6 +27,6 @@ ht-degree: 6%
 
 Obtenga información sobre cómo asignar diferentes tipos de datos entre Adobe Campaign Standard y Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34371?learn=on&captions=spa){transcript=true}
 
 Consulte la documentación del producto para obtener más información sobre la [definición de asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=es)

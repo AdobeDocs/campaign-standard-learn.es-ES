@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear un evento de activador en Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446412?learn=on&captions=spa){transcript=true}

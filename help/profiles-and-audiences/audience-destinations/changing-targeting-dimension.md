@@ -29,4 +29,4 @@ ht-degree: 6%
 
 En este vídeo se explica cómo cambiar la dimensión de segmentación de una entrega para un(a) [!UICONTROL Platform Audience] fuera de la tabla de perfil principal en Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/32693?learn=on&captions=spa){transcript=true}

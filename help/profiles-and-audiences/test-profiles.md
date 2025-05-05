@@ -23,4 +23,4 @@ Los perfiles de prueba permiten encontrar destinatarios adicionales que no coinc
 
 Este vídeo explica cómo crear perfiles de prueba
 
->[!VIDEO](https://video.tv.adobe.com/v/24094?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328366?learn=on&captions=spa){transcript=true}

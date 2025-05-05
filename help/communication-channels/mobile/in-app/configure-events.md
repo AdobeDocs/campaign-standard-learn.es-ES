@@ -21,4 +21,4 @@ ht-degree: 13%
 
 Comprenda qué déclencheur de acción iniciaron los usuarios en un mensaje en la aplicación y aprenda a configurarlos.
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40911?learn=on&captions=spa){transcript=true}

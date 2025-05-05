@@ -23,4 +23,4 @@ Puede crear un envío de correo electrónico independiente desde una campaña, d
 
 Aprenda a crear una entrega de correo electrónico desde la página principal.
 
->[!VIDEO](https://video.tv.adobe.com/v/23721?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29750?learn=on&captions=spa){transcript=true}

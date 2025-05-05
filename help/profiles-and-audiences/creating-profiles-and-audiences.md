@@ -28,4 +28,4 @@ Los perfiles agrupados según uno o varios criterios comunes se denominan **audi
 
 En este vídeo se explica cómo navegar a perfiles existentes, y cómo crear perfiles y audiencias en Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38367/?learn=on&captions=spa){transcript=true}

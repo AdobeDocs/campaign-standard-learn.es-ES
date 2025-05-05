@@ -21,4 +21,4 @@ ht-degree: 12%
 
 Aprenda a presentar al usuario mensajes en la aplicación relevantes para el contexto en respuesta al comportamiento en tiempo real de un cliente dentro de la aplicación móvil.
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34789?learn=on&captions=spa){transcript=true}

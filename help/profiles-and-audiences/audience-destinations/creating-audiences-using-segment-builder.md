@@ -33,6 +33,6 @@ Puede acceder a [!UICONTROL Unified Segment Builder] directamente desde Adobe Ca
 
 El siguiente vídeo explica cómo se crea una nueva audiencia con [!UICONTROL Unified Segment Builder] en Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38519?learn=on&captions=spa){transcript=true}
 
 *Cómo crear una audiencia en Adobe Campaign Standard mediante el Generador de segmentos unificado (min 02:47)*

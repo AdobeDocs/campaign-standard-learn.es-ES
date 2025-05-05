@@ -21,4 +21,4 @@ ht-degree: 37%
 
 Obtenga información sobre cómo crear una notificación push multilingüe en Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/23304?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37536?learn=on&captions=spa){transcript=true}

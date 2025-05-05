@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo configurar activadores en Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446141?learn=on&captions=spa){transcript=true}

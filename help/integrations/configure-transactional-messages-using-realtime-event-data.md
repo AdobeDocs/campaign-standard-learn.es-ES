@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Aprenda a configurar mensajes transaccionales utilizando datos de evento en tiempo real procedentes de los activadores.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450205?learn=on&captions=spa){transcript=true}

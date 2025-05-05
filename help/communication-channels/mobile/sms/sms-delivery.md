@@ -23,4 +23,4 @@ Obtenga información sobre cómo crear un envío SMS en Adobe Campaign Standard.
 
 La actividad envío de SMS se utiliza para automatizar el envío de SMS. La configuración de esta actividad es la misma que la del envío único descrito en el vídeo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25265/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328378/?learn=on&captions=spa){transcript=true}

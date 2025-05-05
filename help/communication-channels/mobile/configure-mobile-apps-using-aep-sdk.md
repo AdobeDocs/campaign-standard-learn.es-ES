@@ -24,7 +24,7 @@ Para enviar mensajes en la aplicación o [!UICONTROL push notifications] mediant
 
 Los siguientes vídeos muestran los pasos necesarios para configurar una aplicación móvil en Experience Platform Launch:
 
->[!VIDEO](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40904?learn=on&captions=spa){transcript=true}
 
 >[!NOTE]
 >

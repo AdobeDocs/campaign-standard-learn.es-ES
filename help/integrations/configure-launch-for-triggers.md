@@ -26,4 +26,4 @@ Obtenga información sobre cómo recopilar datos de Adobe Experience Platform y 
 >
 > Tenga en cuenta que Launch ahora es la función Etiquetas de Adobe Experience Platform. Se puede encontrar en **Recopilaciones de datos de Adobe Experience Platform**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454019?learn=on&captions=spa){transcript=true}

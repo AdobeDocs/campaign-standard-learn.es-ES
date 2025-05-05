@@ -21,4 +21,4 @@ ht-degree: 100%
 
 En este vídeo se destacan los próximos pasos posibles para una verdadera orquestación entre canales.
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36394?learn=on&captions=spa){transcript=true}

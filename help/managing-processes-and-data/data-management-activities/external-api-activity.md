@@ -30,7 +30,7 @@ Algunos ejemplos de casos prácticos son:
 
 Este vídeo muestra el uso de [!UICONTROL External API activity].
 
->[!VIDEO](https://video.tv.adobe.com/v/28200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33118/?learn=on&captions=spa){transcript=true}
 
 *[!UICONTROL External API activity] (06:48 min)*
 

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo explica el concepto y cómo crear perfiles y audiencias.
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38375?learn=on&captions=spa){transcript=true}

@@ -28,4 +28,4 @@ Con la tecnología [!UICONTROL Journey AI], [!DNL Adobe Campaign] puede analizar
 
 Aprenda a ver las puntuaciones de participación en el nivel de perfil individual, utilice puntuaciones para dirigirse a usuarios comprometidos y suprimir usuarios fatigados, y a crear reglas de tipología para administrar la fatiga de los clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328456?learn=on&captions=spa){transcript=true}

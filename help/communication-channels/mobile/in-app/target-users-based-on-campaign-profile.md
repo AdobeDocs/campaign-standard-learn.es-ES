@@ -21,4 +21,4 @@ ht-degree: 20%
 
 Obtenga información sobre cómo dirigirse a usuarios de aplicaciones móviles conocidos con mensajes personalizados con atributos de perfil CRM.
 
->[!VIDEO](https://video.tv.adobe.com/v/26200?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35339?learn=on&captions=spa){transcript=true}

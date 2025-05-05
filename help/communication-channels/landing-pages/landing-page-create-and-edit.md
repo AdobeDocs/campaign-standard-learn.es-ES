@@ -21,7 +21,7 @@ ht-degree: 19%
 
 Adobe Campaign le permite crear páginas de destino que son formularios en línea que se pueden utilizar para capturar información sobre sus audiencias, ofrecer suscripciones a un servicio, mostrar datos y ampliar su base de datos. Las páginas de aterrizaje también se pueden utilizar para adquirir o actualizar perfiles existentes.
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36315?learn=on&captions=spa){transcript=true}
 
 ## Recursos adicionales
 
