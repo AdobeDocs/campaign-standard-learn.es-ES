@@ -27,4 +27,4 @@ Aprenda a crear un informe.
 
 ## Recursos adicionales
 
-* [Acerca de los informes](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [Acerca de los informes](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=es)

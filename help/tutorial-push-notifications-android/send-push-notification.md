@@ -32,5 +32,5 @@ Si todo va bien, debería ver una notificación en la aplicación de Android™ 
 
 ## Recursos adicionales
 
-* [Documentación detallada sobre las notificaciones push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
+* [Documentación detallada sobre las notificaciones push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=es)
 * [Creación de una notificación push (vídeo)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

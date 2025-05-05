@@ -25,4 +25,4 @@ Obtenga información sobre cómo definir segmentos en el flujo de trabajo y agre
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=es)

@@ -29,4 +29,4 @@ Obtenga información sobre cómo asignar diferentes tipos de datos entre Adobe C
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
 
-Consulte la documentación del producto para obtener más información sobre la [definición de asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+Consulte la documentación del producto para obtener más información sobre la [definición de asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=es)

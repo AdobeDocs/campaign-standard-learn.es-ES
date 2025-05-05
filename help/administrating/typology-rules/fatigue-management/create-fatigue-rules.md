@@ -28,4 +28,4 @@ Para crear [!UICONTROL fatigue rules], debe definir un número máximo de mensaj
 
 ## Recursos adicionales
 
-* [Reglas de fatiga (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
+* [Reglas de fatiga (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html?lang=es)

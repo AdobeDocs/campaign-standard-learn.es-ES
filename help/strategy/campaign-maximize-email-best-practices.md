@@ -140,4 +140,4 @@ Desglose este proceso en dos áreas de enfoque: a) patrones de envío de correo 
 
 Para ver un resumen de este artículo y una demostración en directo de la implementación de estrategias de renovación de la participación, vea nuestro [seminario web](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Obtenga más información sobre estrategia y liderazgo mental en el centro de [Éxito del cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Obtenga más información sobre estrategia y liderazgo mental en el centro de [Éxito del cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=es).

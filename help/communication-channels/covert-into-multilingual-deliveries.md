@@ -23,4 +23,4 @@ Este vídeo muestra cómo un correo electrónico, un envío SMS o una plantilla 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
-Consulte la documentación del producto para obtener más información sobre [creación de un correo electrónico multilingüe](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+Consulte la documentación del producto para obtener más información sobre [creación de un correo electrónico multilingüe](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=es)

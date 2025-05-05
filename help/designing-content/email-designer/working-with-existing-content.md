@@ -31,4 +31,4 @@ El Designer de correo electrónico requiere un etiquetado específico, que debe 
 
 Puede encontrar la documentación detallada en el siguiente vínculo:
 
-[Convirtiendo contenido de HTML en una plantilla de Designer de correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Convirtiendo contenido de HTML en una plantilla de Designer de correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=es)

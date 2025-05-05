@@ -25,4 +25,4 @@ Obtenga información sobre cómo configurar y enviar una prueba A/B para probar 
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
-Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) para obtener más información sobre cómo probar el contenido o el remitente.
+Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=es) para obtener más información sobre cómo probar el contenido o el remitente.
