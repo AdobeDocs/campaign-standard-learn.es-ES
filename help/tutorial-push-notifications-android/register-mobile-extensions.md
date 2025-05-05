@@ -70,6 +70,6 @@ try{
 }
 ```
 
-Línea 32: debe proporcionar el id. de archivo de entorno de su propiedad [!UICONTROL  Launch]. Se puede obtener acceso a esto desde el [!UICONTROL environment tab] de su propiedad [!UICONTROL Launch].
+Línea 32: debe proporcionar el id. de archivo de entorno de su propiedad [!UICONTROL &#x200B; Launch]. Se puede obtener acceso a esto desde el [!UICONTROL environment tab] de su propiedad [!UICONTROL Launch].
 
 ![launch-id](assets/launch-id-property.PNG)

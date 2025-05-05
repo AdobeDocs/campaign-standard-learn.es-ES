@@ -59,7 +59,7 @@ Si la integración de la aplicación con Firebase se realiza correctamente, reci
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[Asegúrese de que su proyecto esté en la lista de  [!DNL Firebase ]consola](https://console.firebase.google.com/)
+[Asegúrese de que su proyecto esté en la lista de  [!DNL Firebase &#x200B;]consola](https://console.firebase.google.com/)
 
 ## Configurar la configuración de [!UICONTROL Push Channel]
 
