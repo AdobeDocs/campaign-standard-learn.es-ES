@@ -81,7 +81,7 @@ Existen dos formas de resolver este error:
 
 2. Utilice el método de exclusión JOINS para seleccionar el campo en función del cual desea excluir los registros.
 
-![Error en conjunto de datos de campo común - Solución ](/help/assets/kt-13256/dataset-error-solution.png)
+![Error en conjunto de datos de campo común - Solución &#x200B;](/help/assets/kt-13256/dataset-error-solution.png)
 
 ## Error al soltar nombre de campo
 
@@ -114,7 +114,7 @@ Este error se puede resolver de tres formas:
 **Causa:**
 Este es un error común en flujos de trabajo complicados que implican enriquecimiento u otra actividad. Probablemente signifique que algunos de los flujos de trabajo de actividad no se guardan correctamente durante varios cambios en el flujo de trabajo.
 
-![Error temporal descartado de tabla ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Error temporal descartado de tabla &#x200B;](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Solución:**
 Existen muchas maneras de que se produzca este error, por lo que no hay una solución simple. Si se trata de un flujo de trabajo simple, sería mejor reconfigurar la actividad. En un flujo de trabajo complicado, es mejor copiar las actividades de flujo de trabajo en un nuevo flujo de trabajo, guardarlo y volver a ejecutarlo.
