@@ -11,8 +11,8 @@ level: Experienced
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '185'
+workflow-type: ht
+source-wordcount: '212'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Al configurar Adobe Campaign Standard para administrar solicitudes de privacidad, debe asegurarse de que los datos personalizados vinculados a un perfil se borren al eliminar el perfil. En este vídeo se explica cómo modificar los recursos personalizados para cumplir con este requisito.
 
->[!VIDEO](https://video.tv.adobe.com/v/329499?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23326?learn=on){transcript=true}
 
 >[!NOTE]
 >
@@ -29,6 +29,6 @@ Al configurar Adobe Campaign Standard para administrar solicitudes de privacidad
 >
 >A partir de la versión 19.4, el campo Exclusión de la CCPA vendrá de serie en la interfaz y la API de Campaign. Para utilizar esta información en la versión 19.3, debe crear este >campo en Adobe Campaign Standard. Consulte la [documentación detallada](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=es#privacy-requests) para obtener más información.
 >
-> Para comprobar su versión, haga clic en **?** en la parte superior derecha de la interfaz y seleccione Acerca de.
+> Para comprobar su versión, haga clic en **?** en la parte superior derecha de la interfaz y seleccione Acerca de.
 
 Consulte también las [Directrices generales de privacidad para Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=es)

@@ -11,8 +11,8 @@ exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '60'
+workflow-type: ht
+source-wordcount: '58'
 ht-degree: 100%
 
 ---
@@ -21,5 +21,5 @@ ht-degree: 100%
 
 En este vídeo se explica la jerarquía de programas y campañas, cómo crear un programa de marketing y cómo crear una campaña de marketing dentro de un programa.
 
->[!VIDEO](https://video.tv.adobe.com/v/38384?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/18465?learn=on){transcript=true}
 

@@ -11,8 +11,8 @@ exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '30'
+workflow-type: ht
+source-wordcount: '28'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo le ofrece información general sobre las funciones de creación de informes de Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/33578?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29461?learn=on){transcript=true}

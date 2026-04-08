@@ -4,9 +4,9 @@ user-guide-description: Vídeos y tutoriales para Adobe Campaign Standard.
 breadcrumb-title: Tutoriales de Campaign Standard
 auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 91%
+workflow-type: ht
+source-wordcount: '604'
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 91%
    + [Creación de un perfil de prueba](/help/profiles-and-audiences/test-profiles.md)
    + [Importación de perfiles con un flujo de trabajo](/help/managing-processes-and-data/importing-profiles.md)
    + [Administración de servicios y suscripciones](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + Audience Destinations (BETA){#audience-destinations}
+   + Audience Destinations (Beta){#audience-destinations}
       + [Información general](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Creación de un público con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Activación de públicos de Adobe Experience Platform en un flujo de trabajo](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
@@ -55,7 +55,7 @@ ht-degree: 91%
          + [Puntuación de participación predictiva](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Móvil {#mobile}
       + SMS{#sms}
-         + [Creación de una entrega SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [Creación de una entrega de SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
       + Notificaciones push {#push}
          + [Creación de una notificación push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Creación de una notificación push multilingüe](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -82,28 +82,28 @@ ht-degree: 91%
       + [Uso de contenido existente](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Creación de contenido con Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configuración de listados de productos en correos electrónicos transaccionales](/help/designing-content/product-listings-in-transactional-email.md)
-+ Administración de procesos y datos {#managing-processes-and-data}
++ Administración de datos y procesos {#managing-processes-and-data}
    + [Creación de un flujo de trabajo](/help/managing-processes-and-data/creating-a-workflow.md)
    + Actividades de ejecución {#execution-activities}
       + [Actividad de señal externa](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Actividades de administración de datos {#data-management-activities}
       + [Actividad de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Informes y monitorización {#reporting}
++ Creación de informes y monitorización {#reporting}
    + [Exploración de informes](/help/getting-started/exploring-reports.md)
    + [Creación de un informe dinámico](/help/reporting/creating-a-dynamic-report.md)
    + [Creación de un informe basado en atributos de perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Creación de un informe basado en segmentos de flujo de trabajo](/help/reporting/report-on-workflow-segments.md)
-   + [Monitorización de un envío](/help/reporting/monitor-a-delivery.md)
+   + [Monitorización de una entrega](/help/reporting/monitor-a-delivery.md)
 + Integración con otras soluciones {#integrations}
    + [Seguimiento del éxito de los envíos en Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Uso de déclencheur para mensajes transaccionales {#triggers}
+   + Uso de activadores para mensajes transaccionales {#triggers}
       + [Información general](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Configuración del lanzamiento para los activadores](/help/integrations/configure-launch-for-triggers.md)
       + [Creación de un activador en Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Creación de un evento de activador en Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configuración de mensajes transaccionales mediante datos de evento en tiempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Configuración de Microsoft](/help/integrations/configure-dynamics-365.md)
-+ Administrar {#administrating}
+   + [Configuración de Microsoft® Dynamics 365 para la integración con Campaign Standard](/help/integrations/configure-dynamics-365.md)
++ Administración {#administrating}
    + [Administración de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
    + [Creación de recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=es)
    + [Panel de control](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target="_blank"}
@@ -128,4 +128,4 @@ ht-degree: 91%
    + [Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing](/help/strategy/10-best-practices-for-marketers.md)
    + [Solución de problemas para especialistas en marketing](/help/strategy/troubleshooting-for-marketers.md)
    + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
+   + [Guía de prácticas recomendadas de entregabilidad](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)

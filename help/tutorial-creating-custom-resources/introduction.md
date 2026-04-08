@@ -10,15 +10,15 @@ team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '186'
+workflow-type: ht
+source-wordcount: '198'
 ht-degree: 100%
 
 ---
 
 # Creación de recursos personalizados: Introducción
 
-[!DNL Adobe Campaign] viene con un modelo de datos predefinido, donde los datos se definen a través de diferentes recursos. [!DNL Campaign] permite al usuario ampliar recursos existentes o crear nuevos.
+[!DNL Adobe Campaign] viene con un modelo de datos predefinido, donde los datos se definen a través de diferentes recursos. [!DNL Campaign] permite al usuario ampliar recursos existentes o crear nuevos.
 
 Este tutorial de varias partes le guiará para crear y vincular recursos personalizados.
 Cómo:
