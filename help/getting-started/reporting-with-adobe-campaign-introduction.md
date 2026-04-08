@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo le ofrece información general sobre las funciones de creación de informes de Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/29461?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33578?captions=spa&learn=on){transcript=true}
