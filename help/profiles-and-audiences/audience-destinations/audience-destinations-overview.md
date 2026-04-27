@@ -12,9 +12,9 @@ level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
 hide: true
 hidefromtoc: true
-source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '131'
 ht-degree: 6%
 
 ---
@@ -30,10 +30,10 @@ ht-degree: 6%
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 >
 
-El módulo Audiencias de Adobe Campaign Standard le permite crear segmentos con datos de [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=es) de Adobe Experience Platform.
+El módulo Audiencias de Adobe Campaign Standard le permite crear segmentos con datos de [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) de Adobe Experience Platform.
 
 Los siguientes tutoriales en vídeo le guiarán por los diferentes pasos:
 
-1. [Creación de una audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+1. [Creación de un público con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Activación de audiencias de Experience Platform en un flujo de trabajo de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Cambio de la dimensión de segmentación de una entrega para una audiencia de Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

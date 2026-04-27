@@ -1,5 +1,5 @@
 ---
-title: Activación de audiencias de Adobe Experience Platform en un flujo de trabajo
+title: Activación de públicos de Adobe Experience Platform en un flujo de trabajo
 description: En este vídeo se explica cómo activar la Audiencia de consulta de servicios de datos en un flujo de trabajo mediante la actividad Leer audiencia.
 feature: People Core Service Integration
 jira: KT-2760
@@ -12,10 +12,10 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
 hidefromtoc: true
-source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '134'
+ht-degree: 5%
 
 ---
 
@@ -29,8 +29,8 @@ ht-degree: 8%
 
 En este vídeo se explica cómo activar [!UICONTROL Data Services Query Audience] en un flujo de trabajo mediante la actividad [!UICONTROL Read Audience].
 
->[!VIDEO](https://video.tv.adobe.com/v/34376?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
-*Activar una audiencia de Adobe Experience Platform en un flujo de trabajo (2:37 min)*
+*Activar una audiencia de Adobe Experience Platform en un flujo de trabajo (02:37 min)*
 
-Consulte la documentación del producto sobre cómo [introducir audiencias de Adobe Experience Platform en Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=es)
+Consulte la documentación del producto sobre cómo [introducir audiencias de Adobe Experience Platform en Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)

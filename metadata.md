@@ -6,12 +6,12 @@ version: Campaign Standard
 type: Tutorial
 feature-set: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-standard-learn.es-ES
+git-repo: https://github.com/AdobeDocs/campaign-standard-learn.en
 index: true
-source-git-commit: 83b1b0c98d74d4555269a7d90051146d21824dc0
-workflow-type: ht
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -23,7 +23,7 @@ El archivo metadata.md incluye metadatos a nivel del repositorio que transfieren
 | metadatos | qué significa |
 |--- |--- |
 | solution-title | Se utiliza como vínculo en el encabezado del artículo |
-| solution-hub-url | Abre la página helpx hub |
+| solution-hub-url | Abre la página del centro de ayuda helpx |
 | solution-icon | Muestra el icono de la solución junto al título de la solución. Aún no se ha implementado |
 | getting-started-url | Vínculo a la página de introducción a helpx |
 | tutorials-url | Vínculo a tutoriales de vídeo: tutoriales helpx o tutoriales de KT |
@@ -35,4 +35,4 @@ En el archivo TOC.md
 | metadatos | qué significa |
 |--- |--- |
 | user-guide-title | Se utiliza como vínculo en el encabezado del artículo |
-| user-guide-url | Abre la página helpx hub |
+| user-guide-url | Abre la página del centro de ayuda helpx |
