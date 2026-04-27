@@ -27,7 +27,7 @@ ht-degree: 9%
 >
 >Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 
-Adobe Campaign Standard allows you to build audiences using data from the Adobe Experience Cloud [Real-Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) by using the Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Adobe Campaign Standard allows you to build audiences using data from the Adobe Experience Cloud [Real-Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=es) by using the Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
 You can access the [!UICONTROL Unified Segment Builder] directly within Adobe Campaign Standard via the [!UICONTROL Audiences] module. It allows you to manage these audiences directly in the [!UICONTROL Audiences] list view, where you can edit or create an Adobe Experience Platform audience directly from the Adobe Campaign interface
 
