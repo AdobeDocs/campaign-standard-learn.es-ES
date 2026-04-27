@@ -23,4 +23,4 @@ ht-degree: 31%
 
 En este vídeo se explica cómo enviar un correo electrónico de prueba, prepararse y, a continuación, enviar un correo electrónico en Adobe Campaign Standard (ACS).
 
->[!VIDEO](https://video.tv.adobe.com/v/24013?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328369?captions=spa&learn=on){transcript=true}
