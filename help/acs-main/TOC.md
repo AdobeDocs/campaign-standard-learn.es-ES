@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Adobe Campaign Standard
 user-guide-description: Vídeos y tutoriales para Adobe Campaign Standard.
 breadcrumb-title: Tutoriales de Campaign Standard
 auto-video-transcripts: true
-source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: ht
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
+workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -33,14 +33,14 @@ ht-degree: 100%
    + [Importación de perfiles con un flujo de trabajo](/help/managing-processes-and-data/importing-profiles.md)
    + [Administración de servicios y suscripciones](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (Beta){#audience-destinations}
-      + [Información general](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Creación de un público con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [Activación de públicos de Adobe Experience Platform en un flujo de trabajo](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-      + [Cambio de la dimensión de segmentación](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+      + {hide-from-toc}[Información general](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
+      + {hide-from-toc}[Crear una audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + {hide-from-toc}[Activar audiencias de Adobe Experience Platform en un flujo de trabajo](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + {hide-from-toc}[Cambiar la dimensión de segmentación](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canales de comunicación {#communication-channels}
    + Correo electrónico {#email}
       + [Creación de un correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
-      + [Envío de una prueba y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + {hide-from-toc}[Enviar una prueba, preparar y enviar un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Programación de mensajes](/help/communication-channels/email/schedule-messages.md)
       + [Envío de una prueba](/help/communication-channels/email/send-a-proof.md)
       + [Pruebas A/B](/help/communication-channels/email/a-b-testing.md)
@@ -99,7 +99,7 @@ ht-degree: 100%
    + Uso de activadores para mensajes transaccionales {#triggers}
       + [Información general](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Configuración del lanzamiento para los activadores](/help/integrations/configure-launch-for-triggers.md)
-      + [Creación de un activador en Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + {hide-from-toc}[Creación de un activador en Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Creación de un evento de activador en Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configuración de mensajes transaccionales mediante datos de evento en tiempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configuración de Microsoft® Dynamics 365 para la integración con Campaign Standard](/help/integrations/configure-dynamics-365.md)
@@ -128,4 +128,4 @@ ht-degree: 100%
    + [Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing](/help/strategy/10-best-practices-for-marketers.md)
    + [Solución de problemas para especialistas en marketing](/help/strategy/troubleshooting-for-marketers.md)
    + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [Guía de prácticas recomendadas de entregabilidad](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
+   + [Guía de prácticas recomendadas para la entregabilidad](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
