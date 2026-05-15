@@ -10,10 +10,16 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/mtGhny0ec1-4VqoGHWcZzLkCg1YkrxedrO1QmOLSQDY
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 8%
+source-wordcount: 133
+ht-degree: 4%
 
 ---
 
@@ -29,12 +35,12 @@ En los siguientes vídeos se explican los pasos necesarios para configurar [!UIC
 
 ## Paso 1: Creación de un evento y publicación
 
->[!VIDEO](https://video.tv.adobe.com/v/34443?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34443?captions=spa&learn=on){transcript=true}
 
 ## Paso 2: Adición de una lista de productos a una plantilla de mensaje transaccional
 
->[!VIDEO](https://video.tv.adobe.com/v/34437?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34437?captions=spa&learn=on){transcript=true}
 
 ## Paso 3: Prueba del mensaje transaccional
 
->[!VIDEO](https://video.tv.adobe.com/v/34444?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34444?captions=spa&learn=on){transcript=true}

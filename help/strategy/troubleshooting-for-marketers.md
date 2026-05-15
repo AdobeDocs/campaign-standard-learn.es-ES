@@ -5,22 +5,35 @@ feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
-last-substantial-update: 2023-05-18T00:00:00Z
+last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-source-git-commit: 83b1b0c98d74d4555269a7d90051146d21824dc0
+TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: 743
 ht-degree: 0%
 
 ---
 
 # Solución de problemas para los especialistas en marketing: 5 errores comunes de flujo de trabajo y envío
 
-Por: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Consultor Senior, Meijer
+Por: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, consultor senior, Meijer
 
-Como ingeniero sénior y experto en productos de Adobe Experience Cloud durante los últimos cinco años, permito a los usuarios empresariales de [Meijer](https://www.meijer.com/){target="_blank"}, una cadena de supercentros estadounidense fundada en 1934, ejecutar complejas campañas transaccionales y de marketing con ACS. Algunos proyectos en los que he trabajado incluyen campañas personalizadas para almacenar ofertas y detalles de pedidos para personalización, integradas con Adobe Audience Manager, y conocimiento del cliente para ingesta de segmentos.
+Como ingeniero sénior y experto en productos de Adobe Experience Cloud durante los últimos cinco años, permito a los usuarios empresariales de [Meijer](https://www.meijer.com/){target="_blank"}, una cadena de supercentros estadounidense fundada en 1934, ejecutar complejas campañas transaccionales y de marketing con ACS. Algunos proyectos en los que he trabajado incluyen campañas personalizadas para almacenar ofertas y detalles de pedidos para personalización, integradas con Adobe Audience Manager, y insight de cliente para ingesta de segmentos.
 
 
 En mi tiempo usando ACS, me he encontrado con errores, que pueden consumir tiempo y ser frustrantes de resolver. Conocer los errores más comunes puede ayudar a resolver problemas más rápido y aumentar su productividad. A continuación se muestran mis sugerencias de solución de problemas para ayudarle a resolver de forma eficaz errores similares a medida que se producen.

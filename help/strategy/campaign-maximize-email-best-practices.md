@@ -6,9 +6,25 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
-source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
+TQID: https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: addf009e-030a-4310-8534-776a3e62ed48
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '1475'
+source-wordcount: 1497
 ht-degree: 0%
 
 ---
@@ -38,13 +54,13 @@ Antes de profundizar en la estrategia, es importante tener en cuenta los problem
 
 ## Maximice el ROI del correo electrónico
 
-¿Sabían que en un minuto en Internet hay más de un millón de visualizaciones de vídeos, dos millones de consultas de búsqueda en Google, seis millones de visualizaciones en Facebook y 200 millones de correos electrónicos enviados? Con tantas cosas sucediendo, es importante asegurarse de que su contenido no se pierda en el ruido. Particularmente si está creando una campaña durante una temporada de vacaciones, es aún más difícil poner sus correos electrónicos delante de los clientes potenciales y recurrentes.
+¿Sabían que en un minuto en Internet hay más de un millón de visualizaciones de video, dos millones de consultas de búsqueda en Google, seis millones de visualizaciones en Facebook y 200 millones de correos electrónicos enviados? Con tantas cosas sucediendo, es importante asegurarse de que su contenido no se pierda en el ruido. Particularmente si está creando una campaña durante una temporada de vacaciones, es aún más difícil poner sus correos electrónicos delante de los clientes potenciales y recurrentes.
 
 Desde noviembre hasta principios de enero, el volumen de correos electrónicos de marketing enviados aumenta significativamente. Los proveedores de buzones de correo (ISP) tendrán mucho más tráfico llegando a sus servidores que durante el resto del año y, como resultado, estarán aún más vigilantes en cuanto a la protección de sus clientes (sus suscriptores).
 
 Estas son cuatro estrategias clave para maximizar el ROI:
 
-### 1. Prepare el calendario de contenido
+### &#x200B;1. Preparar el calendario de contenido
 
 * Los ISP rastrean el envío promedio desde una dirección IP, por lo que distribuyen el volumen lo más posible para evitar crear una marca roja y ser enviado a correo no deseado
 * Configure el calendario de contenido con antelación y prepare a los autores de contenido para un aumento en el volumen de envío
@@ -53,14 +69,14 @@ Estas son cuatro estrategias clave para maximizar el ROI:
    * Planifique de forma estratégica en torno a las horas del día en las que las personas reciban sobrecarga de correo electrónico, como 8-10 a. m
    * Si no puede extenderlo a lo largo de días, inténtelo durante horas
 
-### 2. Infraestructura
+### &#x200B;2. Infraestructura
 
 * Asegúrese de que la autenticación por correo electrónico esté correctamente configurada realizando una prueba con su propio correo electrónico
 * Familiarícese con la administración de devoluciones y compruebe el rendimiento en todos los ISP
    * ¿Hay algún problema o bloqueo potencial con un ISP específico?
    * Conozca sus problemas antes de empezar a enviar un gran volumen para evitar sorpresas desagradables y un rendimiento de campaña deficiente
 
-### 3. Datos
+### &#x200B;3. Datos
 
 * Identifique todas las técnicas de adquisición, especialmente sus procesos de registro y el RGPD.
 * Sea lo más transparente posible con sus suscriptores cuando pida su dirección de correo electrónico:
@@ -71,7 +87,7 @@ Estas son cuatro estrategias clave para maximizar el ROI:
    * Los correos electrónicos de bienvenida ayudan a garantizar que los suscriptores no se sientan sorprendidos por el nuevo contenido y no se suscriban ni marquen como correo no deseado.
    * Los correos electrónicos de bienvenida también son un buen indicador de rendimiento. Si no se entregan correctamente o no se interactúa con ellos, sabrá que es una señal de bajo rendimiento o de mala recopilación de datos.
 
-### 4. Administración de correo electrónico
+### &#x200B;4. Administración de correo electrónico
 
 * Segmente a sus suscriptores y monitorice dónde se encuentran en el ciclo vital de su marca
 * Utilice estrategias de personalización de contenido para mejorar la relevancia de los correos electrónicos
@@ -90,7 +106,7 @@ Desafortunadamente, la mayoría de los suscriptores que experimentan fatiga por 
 
 Con esto en mente, estas son algunas prácticas recomendadas para mantener a los suscriptores comprometidos y anticipar el tipo de contenido que desean recibir, a fin de evitar cancelaciones de suscripción y audiencias inactivas.
 
-### 1. Cree una estrategia para la frecuencia del correo electrónico
+### &#x200B;1. Crear una estrategia para la frecuencia del correo electrónico
 
 Desafortunadamente, no hay una respuesta correcta sobre cuántos correos electrónicos enviar por semana. Para encontrar el número correcto, tenga en cuenta lo siguiente:
 
@@ -102,7 +118,7 @@ Desafortunadamente, no hay una respuesta correcta sobre cuántos correos electr�
 * ¿Cuál es la capacidad de su cliente para recibir contenido de su marca?
 * ¿Cuáles son las preferencias estacionales de su cliente?
 
-### 2. Identificar el estado de los suscriptores
+### &#x200B;2. Identificación del estado de los suscriptores
 
 El estado de los suscriptores (activos, caducados o inactivos) depende de la frecuencia con la que les envíe contenido. A partir de ahí, puede determinar lo comprometidos que están.
 
@@ -114,7 +130,7 @@ Por ejemplo, si envía correos electrónicos a los clientes diariamente, deberí
 
 Para los usuarios que han caducado o están inactivos, considere la posibilidad de consultar la fecha en la que el usuario se suscribió para determinar su nivel de participación. Por ejemplo, ¿se suscribieron en la fecha de una competencia u otra campaña de marketing? ¿Se registraron en una ventana emergente del sitio web con una oferta de descuento? Una vez que haya identificado a sus usuarios inactivos y caducados, es importante cambiar su estrategia para intentar mejorar su satisfacción y convertirlos de nuevo en un suscriptor activo.
 
-### 3. Aplicar estrategias de renovación de la participación
+### &#x200B;3. Implementación de estrategias de renovación de participación
 
 Desglose este proceso en dos áreas de enfoque: a) patrones de envío de correo electrónico y b) el contenido creativo de los propios correos electrónicos. A continuación se muestra una descripción más detallada de cada una de estas áreas:
 
@@ -128,7 +144,7 @@ Desglose este proceso en dos áreas de enfoque: a) patrones de envío de correo 
 
 * **Reglas de presión**: excluye a los suscriptores del programa de renovación de participación de recibir cualquier otro correo electrónico.
 
-**Creativo y contenido**
+**Creative y contenido**
 
 * **Ofrecer una adhesión/exclusión clara**: facilite a los usuarios la decisión rápida de si desean saber de usted. Es posible que se le recompense con una opción de inclusión por atender primero a sus necesidades, en lugar de centrarse en las necesidades comerciales de participación.
 

@@ -1,6 +1,6 @@
 ---
 title: 'PASO 4: Definición de pushidentifier'
-description: '**pushIdentifier** es una cadena que contiene el token del dispositivo para las notificaciones push. Es el mismo token que Firebase envía y que se pasa al SDK mediante el método MobileCore.setPushIdentifier.'
+description: '**pushIdentifier** es una cadena que contiene el token del dispositivo para las notificaciones push. Es el mismo token que Firebase envía y que se pasa a SDK mediante el método MobileCore.setPushIdentifier.'
 feature: Push
 user: Admin
 level: Experienced
@@ -9,16 +9,21 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-source-git-commit: 757afce50981b96b7820c987308d639a73746c0c
+TQID: https://experienceleague.adobe.com/Sr5MNZscXvLdlEZL0nIWf1SRicemz-fu87GpB55PVGE
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: 212
 ht-degree: 0%
 
 ---
 
 # Paso 4: Establecimiento de [!DNL pushidentifier]
 
-**[!DNL pushidentifier]** es una cadena que contiene el token de dispositivo para [!DNL Push] notificaciones. Es el mismo token que [!DNL Firebase] envía y que se pasa al SDK usando el método [!DNL MobileCore.setPushIdentifier].
+**[!DNL pushidentifier]** es una cadena que contiene el token de dispositivo para [!DNL Push] notificaciones. Es el mismo token que se envía por [!DNL Firebase] y se pasa a SDK usando el método [!DNL MobileCore.setPushIdentifier].
 
 Abra el proyecto en [!DNL Android™]Studio. Elimine todo el código de [!DNL MainActivity] **excepto la primera línea, que es la instrucción del paquete**.
 
