@@ -36,4 +36,4 @@ En este vídeo se explica cómo crear un informe basado en atributos de perfil p
 
 ## Recursos adicionales
 
-* [Acerca del sistema de informes](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [Acerca del sistema de informes](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=es)
