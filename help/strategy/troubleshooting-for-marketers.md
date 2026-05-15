@@ -10,11 +10,18 @@ jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
 TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 743
@@ -87,7 +94,7 @@ Existen dos formas de resolver este error:
 
 2. Utilice el método de exclusión JOINS para seleccionar el campo en función del cual desea excluir los registros.
 
-![Error en conjunto de datos de campo común - Solución ](/help/assets/kt-13256/dataset-error-solution.png)
+![Error en conjunto de datos de campo común - Solución &#x200B;](/help/assets/kt-13256/dataset-error-solution.png)
 
 ## Error al soltar nombre de campo
 
@@ -120,7 +127,7 @@ Este error se puede resolver de tres formas:
 **Causa:**
 Este es un error común en flujos de trabajo complicados que implican enriquecimiento u otra actividad. Probablemente signifique que algunos de los flujos de trabajo de actividad no se guardan correctamente durante varios cambios en el flujo de trabajo.
 
-![Error temporal descartado de tabla ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Error temporal descartado de tabla &#x200B;](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Solución:**
 Existen muchas maneras de que se produzca este error, por lo que no hay una solución simple. Si se trata de un flujo de trabajo simple, sería mejor reconfigurar la actividad. En un flujo de trabajo complicado, es mejor copiar las actividades de flujo de trabajo en un nuevo flujo de trabajo, guardarlo y volver a ejecutarlo.
