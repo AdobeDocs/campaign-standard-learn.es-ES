@@ -32,4 +32,4 @@ ht-degree: 12%
 
 Aprenda a utilizar la actividad Entrega en la aplicación para automatizar el envío de un mensaje en la aplicación a una audiencia de destinatario calculada en un flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38571?captions=spa&learn=on){transcript=true}

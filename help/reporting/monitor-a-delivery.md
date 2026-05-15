@@ -31,4 +31,4 @@ ht-degree: 27%
 
 Comprenda los registros de mensajes, los registros de trabajos y los registros de envío.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445037/?captions=spa&learn=on){transcript=true}

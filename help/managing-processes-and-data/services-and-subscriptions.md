@@ -40,4 +40,4 @@ Cada servicio incluye:
 
 Este vídeo muestra cómo crear un servicio y administrar sus suscripciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328372?captions=spa&learn=on){transcript=true}

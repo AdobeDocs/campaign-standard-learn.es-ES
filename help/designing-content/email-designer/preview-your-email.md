@@ -29,4 +29,4 @@ ht-degree: 36%
 
 En este vídeo se explica cómo previsualizar el correo electrónico y el análisis de correo no deseado.
 
->[!VIDEO](https://video.tv.adobe.com/v/25921?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39667?captions=spa&learn=on){transcript=true}

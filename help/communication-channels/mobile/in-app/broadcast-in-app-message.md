@@ -30,4 +30,4 @@ ht-degree: 22%
 
 Aprenda a configurar y utilizar la plantilla de difusión para dirigirse a todos los usuarios de su aplicación móvil.
 
->[!VIDEO](https://video.tv.adobe.com/v/26199?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40918?captions=spa&learn=on){transcript=true}

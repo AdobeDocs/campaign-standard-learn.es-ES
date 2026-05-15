@@ -30,4 +30,4 @@ Para poder crear solicitudes de eliminación y de acceso a la privacidad, según
 
 Aprenda a crear espacios de nombres para solicitudes de privacidad.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29417?captions=spa&learn=on){transcript=true}

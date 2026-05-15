@@ -29,4 +29,4 @@ ht-degree: 0%
 
 En este vídeo se explica cómo ajustar el diseño interactivo de un correo electrónico mediante la edición por separado de todas las opciones de estilo de la pantalla móvil.
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39674?captions=spa&learn=on){transcript=true}

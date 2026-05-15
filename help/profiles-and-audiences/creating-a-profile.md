@@ -33,4 +33,4 @@ ht-degree: 8%
 
 En este vídeo se explica cómo crear un perfil y cómo añadirlo a una audiencia.
 
->[!VIDEO](https://video.tv.adobe.com/v/25277/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328381/?captions=spa&learn=on){transcript=true}

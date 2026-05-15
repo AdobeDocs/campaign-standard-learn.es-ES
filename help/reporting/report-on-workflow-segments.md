@@ -34,6 +34,6 @@ Después de crear un flujo de trabajo y filtrar la población en diferentes audi
 
 Obtenga información sobre cómo definir segmentos en el flujo de trabajo y agregarlos a informes dinámicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33124?captions=spa&learn=on){transcript=true}
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=es)

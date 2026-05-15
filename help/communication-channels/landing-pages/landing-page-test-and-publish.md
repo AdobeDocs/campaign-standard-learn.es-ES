@@ -28,4 +28,4 @@ ht-degree: 27%
 
 En este vídeo se explica cómo probar una página de aterrizaje y cómo publicarla.
 
->[!VIDEO](https://video.tv.adobe.com/v/24092?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37543?captions=spa&learn=on){transcript=true}

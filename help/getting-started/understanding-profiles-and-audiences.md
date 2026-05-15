@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Este vídeo explica el concepto y cómo crear perfiles y públicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38375?captions=spa&learn=on){transcript=true}

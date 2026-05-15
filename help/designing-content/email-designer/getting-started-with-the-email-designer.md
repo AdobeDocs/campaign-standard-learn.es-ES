@@ -29,4 +29,4 @@ ht-degree: 100%
 
 En este vídeo se explica la funcionalidad general del [!UICONTROL Email Designer] y cómo diseñar un correo electrónico desde cero.
 
->[!VIDEO](https://video.tv.adobe.com/v/25912?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327697?captions=spa&learn=on){transcript=true}

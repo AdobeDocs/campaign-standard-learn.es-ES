@@ -32,7 +32,7 @@ ht-degree: 13%
 
 En este vídeo se explica cómo crear un informe basado en atributos de perfil personalizados.
 
->[!VIDEO](https://video.tv.adobe.com/v/28204?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33110?captions=spa&learn=on){transcript=true}
 
 ## Recursos adicionales
 

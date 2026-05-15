@@ -31,4 +31,4 @@ ht-degree: 100%
 
 En este vídeo se explica qué funciones de Adobe Campaign Standard admiten su estrategia de marketing móvil.
 
->[!VIDEO](https://video.tv.adobe.com/v/29468?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33575?captions=spa&learn=on){transcript=true}

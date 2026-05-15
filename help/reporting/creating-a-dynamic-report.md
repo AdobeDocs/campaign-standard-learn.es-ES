@@ -32,7 +32,7 @@ ht-degree: 30%
 
 Aprenda a crear un informe.
 
->[!VIDEO](https://video.tv.adobe.com/v/25264/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328360/?captions=spa&learn=on){transcript=true}
 
 ## Recursos adicionales
 

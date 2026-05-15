@@ -32,4 +32,4 @@ Puede crear un mensaje de correo electrónico desde una campaña, desde la pági
 
 Obtenga información sobre cómo crear y enviar correos electrónicos mediante un flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/31465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33795?captions=spa&learn=on){transcript=true}
