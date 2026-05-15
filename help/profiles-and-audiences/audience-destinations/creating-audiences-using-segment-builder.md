@@ -11,9 +11,13 @@ exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
-source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
+TQID: https://experienceleague.adobe.com/a3yq7paiue1o3DXSnmwI-M8vv6n70wZzQad2x4WIVbY
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: 175
 ht-degree: 9%
 
 ---
@@ -26,12 +30,12 @@ ht-degree: 9%
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
-Adobe Campaign Standard permite crear audiencias a partir de los datos del [perfil del cliente en tiempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=es) de Adobe Experience Cloud mediante Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Adobe Campaign Standard permite crear audiencias a partir de los datos del [perfil del cliente en tiempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) de Adobe Experience Cloud mediante Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
 Puede acceder a [!UICONTROL Unified Segment Builder] directamente desde Adobe Campaign Standard a través del módulo [!UICONTROL Audiences]. Le permite administrar estas audiencias directamente en la vista de lista [!UICONTROL Audiences], donde puede editar o crear una audiencia de Adobe Experience Platform directamente desde la interfaz de Adobe Campaign
 
 El siguiente vídeo explica cómo se crea una nueva audiencia con [!UICONTROL Unified Segment Builder] en Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/38519?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 
 *Cómo crear una audiencia en Adobe Campaign Standard mediante el Generador de segmentos unificado (min 02:47)*

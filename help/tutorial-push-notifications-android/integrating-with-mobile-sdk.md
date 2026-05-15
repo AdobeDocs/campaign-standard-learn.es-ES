@@ -1,6 +1,6 @@
 ---
 title: 'Paso 2: Integración del SDK de Mobile'
-description: En esta parte, integramos la aplicación de Android con el SDK móvil. Para integrar el SDK móvil con la aplicación de Android
+description: En esta parte, integraremos la aplicación de Android con Mobile SDK. Para integrar SDK móvil con la aplicación de Android
 feature: Push
 user: Admin
 level: Experienced
@@ -10,9 +10,12 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-source-git-commit: 913d2c08dc63e2073b3abd1de6b6b16711d817da
+TQID: https://experienceleague.adobe.com/6WL8yj7aMoS9C6l-HwQZZ3Hg0B2jmNtlmaFnsAi0Ohw
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: 164
 ht-degree: 3%
 
 ---
@@ -57,8 +60,8 @@ Removed `{.line-numbers}` below
 ```
 
 Copie la línea siguiente en el elemento de aplicación
-[!DNL android:name=".MainApp"]
-Guardar su [!DNL AndroidManifest.xml]
+[!DNL android:name=&quot;.MainApp&quot;]
+Guarde su [!DNL AndroidManifest.xml]
 Su [!DNL AndroidManifest.xml] debe tener un aspecto similar al siguiente
 
 <!--

@@ -9,9 +9,11 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-source-git-commit: f4712dcf6dec01867414057346f8501c6e1669ec
+TQID: https://experienceleague.adobe.com/NrQc40vzqTy0fNfVT6fN0IjMKuXjilt6eZV-lgZpAcQ
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: 148
 ht-degree: 2%
 
 ---
@@ -26,11 +28,11 @@ Ahora necesitamos crear y enviar un(a) [!UICONTROL Push Notification] mediante A
 * Seleccione la aplicación móvil adecuada de la lista desplegable **[!UICONTROL Associate a Mobile App to a delivery]** y haga clic en **[!UICONTROL Next]**
 * Haga clic en la etiqueta count y debería devolver un valor mayor que 0. Haga clic **[!UICONTROL Next]**
 * Proporcione un(a) [!UICONTROL Message title] y [!UICONTROL Message body] significativo y haga clic en **[!UICONTROL Create]**.
-* Haga clic en **[!UICONTROL Prepare]**. Una vez completada la preparación, haga clic en **[!UICONTROL Confirm]** para enviar el mensaje.
+* Haga clic **[!UICONTROL Prepare]**. Una vez completada la preparación, haga clic en **[!UICONTROL Confirm]** para enviar el mensaje.
 
 Si todo va bien, debería ver una notificación en la aplicación de Android™ ejecutándose en el emulador.
 
 ## Recursos adicionales
 
-* [Documentación detallada sobre las notificaciones push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=es)
+* [Documentación detallada sobre las notificaciones push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
 * [Creación de una notificación push (vídeo)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
