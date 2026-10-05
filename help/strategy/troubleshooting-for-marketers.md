@@ -9,31 +9,45 @@ last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
+TQID: 'https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+subfeature_v2:
+  - id: fcb46c0f-76e1-48bc-9dd0-fcf9d97526cf
+    internal-label: Workflows
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Personalization
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 743
-ht-degree: 0%
-
+source-wordcount: '743'
+ht-degree: 1%
 ---
-
 # Solución de problemas para los especialistas en marketing: 5 errores comunes de flujo de trabajo y envío
 
 Por: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, consultor senior, Meijer
 
-Como ingeniero sénior y experto en productos de Adobe Experience Cloud durante los últimos cinco años, permito a los usuarios empresariales de [Meijer](https://www.meijer.com/){target="_blank"}, una cadena de supercentros estadounidense fundada en 1934, ejecutar complejas campañas transaccionales y de marketing con ACS. Algunos proyectos en los que he trabajado incluyen campañas personalizadas para almacenar ofertas y detalles de pedidos para personalización, integradas con Adobe Audience Manager, y insight de cliente para ingesta de segmentos.
+Como ingeniero sénior y experto en productos de Adobe Experience Cloud durante los últimos cinco años, permito a los usuarios empresariales de [Meijer](https://www.meijer.com/){target="_blank"}, una cadena de supercentros estadounidense fundada en 1934, ejecutar campañas transaccionales y de marketing complejas con ACS. Algunos proyectos en los que he trabajado incluyen campañas personalizadas para almacenar ofertas y detalles de pedidos para personalización, integradas con Adobe Audience Manager, y insight de cliente para ingesta de segmentos.
 
 
 En mi tiempo usando ACS, me he encontrado con errores, que pueden consumir tiempo y ser frustrantes de resolver. Conocer los errores más comunes puede ayudar a resolver problemas más rápido y aumentar su productividad. A continuación se muestran mis sugerencias de solución de problemas para ayudarle a resolver de forma eficaz errores similares a medida que se producen.
@@ -71,7 +85,7 @@ Consulte la captura de pantalla de la actividad de reconciliación como se muest
 
 ![flujo de trabajo con detalles de reconciliación](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-Más información sobre [reconciliación](https://experienceleague.adobe.com/es/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
+Más información sobre [reconciliación](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Error de conjunto de datos de campo común
 
@@ -94,7 +108,7 @@ Existen dos formas de resolver este error:
 
 2. Utilice el método de exclusión JOINS para seleccionar el campo en función del cual desea excluir los registros.
 
-![Error en conjunto de datos de campo común - Solución &#x200B;](/help/assets/kt-13256/dataset-error-solution.png)
+![Error en conjunto de datos de campo común - Solución ](/help/assets/kt-13256/dataset-error-solution.png)
 
 ## Error al soltar nombre de campo
 
@@ -127,7 +141,7 @@ Este error se puede resolver de tres formas:
 **Causa:**
 Este es un error común en flujos de trabajo complicados que implican enriquecimiento u otra actividad. Probablemente signifique que algunos de los flujos de trabajo de actividad no se guardan correctamente durante varios cambios en el flujo de trabajo.
 
-![Error temporal descartado de tabla &#x200B;](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Error temporal descartado de tabla ](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Solución:**
 Existen muchas maneras de que se produzca este error, por lo que no hay una solución simple. Si se trata de un flujo de trabajo simple, sería mejor reconfigurar la actividad. En un flujo de trabajo complicado, es mejor copiar las actividades de flujo de trabajo en un nuevo flujo de trabajo, guardarlo y volver a ejecutarlo.

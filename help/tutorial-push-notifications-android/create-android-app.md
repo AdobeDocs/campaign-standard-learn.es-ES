@@ -1,6 +1,6 @@
 ---
 title: 'Paso 1: Creación de la aplicación de Android y configuración para utilizar Firebase Cloud Messaging'
-description: En esta parte crearemos  [!DNL Android] Aplicación para recibir [!UICONTROL Push notifications] enviados desde Adobe Campaign Standard. Para recibir las notificaciones push, la aplicación debe registrarse con  [!DNL Firebase Cloud Service] de Google.
+description: En esta parte crearemos la aplicación [!DNL Android] para recibir [!UICONTROL Push notifications] enviados desde Adobe Campaign Standard. Para recibir las notificaciones push, la aplicación debe registrarse con [!DNL Firebase Cloud Service] de Google.
 feature: Push
 user: Admin
 level: Experienced
@@ -10,18 +10,29 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
-TQID: https://experienceleague.adobe.com/-r-0ZHCJNt6bwarH4I-RzA46Ho9EJgDegCnN6VJVLgk
+TQID: 'https://experienceleague.adobe.com/-r-0ZHCJNt6bwarH4I-RzA46Ho9EJgDegCnN6VJVLgk'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Administration
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 329
+source-wordcount: '330'
 ht-degree: 0%
-
 ---
-
 # Paso 1: Creación de la aplicación [!DNL Android] y configuración para usar [!DNL Firebase Cloud Messaging]
 
 En esta parte creará la aplicación [!DNL Android] para recibir [!UICONTROL Push notifications] enviados desde Adobe Campaign Standard. Para recibir las notificaciones push, la aplicación debe registrarse con [!DNL Firebase Cloud Service] de Google.
@@ -56,15 +67,15 @@ En esta parte creará la aplicación [!DNL Android] para recibir [!UICONTROL Pus
 11. Una vez que la aplicación esté conectada a Firebase, haga clic en **[!UICONTROL Add FCM to your app].**
 12. Haga clic en **[!UICONTROL Accept Changes].**
 
-   Cuando agregue FCM a la aplicación, el asistente necesitará su permiso para realizar algunos cambios en el proyecto.
+    Cuando agregue FCM a la aplicación, el asistente necesitará su permiso para realizar algunos cambios en el proyecto.
 
-   ![[!DNL add-fcm-to-your-app]](assets/firebase-add-fcm-to-app.PNG)
+    ![[!DNL add-fcm-to-your-app]](assets/firebase-add-fcm-to-app.PNG)
 
 Si la integración de la aplicación con Firebase se realiza correctamente, recibirá un mensaje similar al que se muestra a continuación:
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[Asegúrese de que el proyecto esté en la lista de  [!DNL Firebase &#x200B;]consola](https://console.firebase.google.com/)
+[Asegúrese de que el proyecto esté en la lista de  [!DNL Firebase ]consola](https://console.firebase.google.com/)
 
 ## Configurar la configuración de [!UICONTROL Push Channel]
 
