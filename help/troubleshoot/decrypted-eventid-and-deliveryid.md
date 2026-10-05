@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo obtener un ID de evento descifrado y un ID de envío en Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/335989?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437890?captions=spa&learn=on){transcript=true}
