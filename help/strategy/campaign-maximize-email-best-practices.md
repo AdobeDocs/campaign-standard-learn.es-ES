@@ -6,29 +6,41 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
-TQID: https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M
+TQID: 'https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: addf009e-030a-4310-8534-776a3e62ed48
+    internal-label: Customer lifecycle
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Personalization
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 1497
+source-wordcount: '1497'
 ht-degree: 0%
-
 ---
-
 # ROI del correo electrónico y prácticas recomendadas para la renovación de la participación de los suscriptores
 
 El marketing por correo electrónico es una herramienta valiosa para desarrollar la lealtad de marca y aumentar las ventas. Sin embargo, con la gran cantidad de correos electrónicos que las personas reciben cada día, sin mencionar el otro contenido digital que están consumiendo, es importante que su contenido se destaque de la multitud. Y es importante que satisfaga las necesidades únicas de su audiencia.
@@ -65,27 +77,27 @@ Estas son cuatro estrategias clave para maximizar el ROI:
 * Los ISP rastrean el envío promedio desde una dirección IP, por lo que distribuyen el volumen lo más posible para evitar crear una marca roja y ser enviado a correo no deseado
 * Configure el calendario de contenido con antelación y prepare a los autores de contenido para un aumento en el volumen de envío
 * Piense en cómo programar sus correos electrónicos y evitar un gran pico en el volumen de envío. Considere algunas tácticas, como:
-   * No enviar una explosión al mismo tiempo, sino más bien en unos días
-   * Planifique de forma estratégica en torno a las horas del día en las que las personas reciban sobrecarga de correo electrónico, como 8-10 a. m
-   * Si no puede extenderlo a lo largo de días, inténtelo durante horas
+  * No enviar una explosión al mismo tiempo, sino más bien en unos días
+  * Planifique de forma estratégica en torno a las horas del día en las que las personas reciban sobrecarga de correo electrónico, como 8-10 a. m
+  * Si no puede extenderlo a lo largo de días, inténtelo durante horas
 
 ### &#x200B;2. Infraestructura
 
 * Asegúrese de que la autenticación por correo electrónico esté correctamente configurada realizando una prueba con su propio correo electrónico
 * Familiarícese con la administración de devoluciones y compruebe el rendimiento en todos los ISP
-   * ¿Hay algún problema o bloqueo potencial con un ISP específico?
-   * Conozca sus problemas antes de empezar a enviar un gran volumen para evitar sorpresas desagradables y un rendimiento de campaña deficiente
+  * ¿Hay algún problema o bloqueo potencial con un ISP específico?
+  * Conozca sus problemas antes de empezar a enviar un gran volumen para evitar sorpresas desagradables y un rendimiento de campaña deficiente
 
 ### &#x200B;3. Datos
 
 * Identifique todas las técnicas de adquisición, especialmente sus procesos de registro y el RGPD.
 * Sea lo más transparente posible con sus suscriptores cuando pida su dirección de correo electrónico:
-   * Qué contenido enviará (newsletter, promociones, eventos)
-   * Cuántos correos electrónicos enviará (diario, semanal, mensual)
+  * Qué contenido enviará (newsletter, promociones, eventos)
+  * Cuántos correos electrónicos enviará (diario, semanal, mensual)
 
 * Enviar un correo electrónico de bienvenida a los nuevos suscriptores:
-   * Los correos electrónicos de bienvenida ayudan a garantizar que los suscriptores no se sientan sorprendidos por el nuevo contenido y no se suscriban ni marquen como correo no deseado.
-   * Los correos electrónicos de bienvenida también son un buen indicador de rendimiento. Si no se entregan correctamente o no se interactúa con ellos, sabrá que es una señal de bajo rendimiento o de mala recopilación de datos.
+  * Los correos electrónicos de bienvenida ayudan a garantizar que los suscriptores no se sientan sorprendidos por el nuevo contenido y no se suscriban ni marquen como correo no deseado.
+  * Los correos electrónicos de bienvenida también son un buen indicador de rendimiento. Si no se entregan correctamente o no se interactúa con ellos, sabrá que es una señal de bajo rendimiento o de mala recopilación de datos.
 
 ### &#x200B;4. Administración de correo electrónico
 
@@ -112,9 +124,9 @@ Desafortunadamente, no hay una respuesta correcta sobre cuántos correos electr�
 
 * ¿Dónde está su cliente en el ciclo de vida del cliente?
 * ¿Cuán comprometidos están con sus correos electrónicos?
-   * Correo electrónico de abandono de cesta frente a newsletter
-   * Correo electrónico de reactivación frente a lanzamiento de venta
-   * Correo electrónico de abandono de cesta frente a lanzamiento de nuevo producto
+  * Correo electrónico de abandono de cesta frente a newsletter
+  * Correo electrónico de reactivación frente a lanzamiento de venta
+  * Correo electrónico de abandono de cesta frente a lanzamiento de nuevo producto
 * ¿Cuál es la capacidad de su cliente para recibir contenido de su marca?
 * ¿Cuáles son las preferencias estacionales de su cliente?
 
