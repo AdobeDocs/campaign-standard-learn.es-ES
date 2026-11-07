@@ -35,7 +35,7 @@ ht-degree: 7%
 
 Obtenga información sobre cómo vincular dos recursos personalizados.
 
->[!VIDEO](https://video.tv.adobe.com/v/27712?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507581?captions=spa&learn=on){transcript=true}
 
 **Paso siguiente**
 

@@ -35,7 +35,7 @@ ht-degree: 28%
 
 En este vídeo crearemos nuestro primer recurso personalizado llamado clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/27716?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507574?captions=spa&learn=on){transcript=true}
 
 **Paso siguiente**
 

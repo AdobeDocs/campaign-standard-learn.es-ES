@@ -43,7 +43,7 @@ ht-degree: 9%
 
 Obtenga información sobre cómo asignar [!UICONTROL Experience Events] en Adobe Experience Platform (AEP).
 
->[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507393?captions=spa&learn=on){transcript=true}
 
 ## Recursos adicionales
 

@@ -41,7 +41,7 @@ ht-degree: 7%
 
 Obtenga información sobre cómo recuperar el contenido creativo de un sitio web y cargarlo en el Designer de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507637?captions=spa&learn=on){transcript=true}
 
 ## Compatibilidad del contenido de HTML existente {#making-existing-html-content-compatible}
 
