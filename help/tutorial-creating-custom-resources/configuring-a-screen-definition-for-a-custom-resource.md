@@ -35,7 +35,7 @@ ht-degree: 4%
 
 Obtenga información sobre cómo configurar una definición de pantalla para un recurso personalizado.
 
->[!VIDEO](https://video.tv.adobe.com/v/27713?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507410?captions=spa&learn=on){transcript=true}
 
 **Paso siguiente**
 
